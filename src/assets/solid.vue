@@ -1,0 +1,18 @@
+<template>
+    <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path
+            d="M4.16669 18.75V14.5833C4.16669 8.33332 8.33335 4.16666 14.5834 4.16666H35.4167C41.6667 4.16666 45.8334 8.33332 45.8334 14.5833V18.75M4.16669 31.25V35.4167C4.16669 41.6667 8.33335 45.8333 14.5834 45.8333H35.4167C41.6667 45.8333 45.8334 41.6667 45.8334 35.4167V31.25"
+            stroke="#33EA92" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M13.9583 19.2917L25 25.6875L35.9583 19.3333M25 37.0208V25.6667" stroke="#33EA92" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round" />
+        <path
+            d="M22.4167 13.1042L15.75 16.8125C14.25 17.6458 13 19.75 13 21.4792V28.5417C13 30.2708 14.2292 32.375 15.75 33.2083L22.4167 36.9167C23.8333 37.7083 26.1667 37.7083 27.6042 36.9167L34.2708 33.2083C35.7708 32.375 37.0208 30.2708 37.0208 28.5417V21.4792C37.0208 19.75 35.7917 17.6458 34.2708 16.8125L27.6042 13.1042C26.1667 12.2917 23.8333 12.2917 22.4167 13.1042Z"
+            stroke="#33EA92" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
+</template>
+
+<script>
+export default {
+    name: 'solid',
+}
+</script>
